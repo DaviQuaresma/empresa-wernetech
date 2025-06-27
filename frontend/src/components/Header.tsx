@@ -30,7 +30,7 @@ const navLinks = [
         title: "Nuvem e Infraestrutura",
         items: [
           { href: "/solucoes/googleCloud", label: "Google Cloud" },
-          { href: "/solucoes/solarWigs", label: "SolarWinds" },
+          { href: "/solucoes/solarWinds", label: "SolarWinds" },
         ],
       },
       {

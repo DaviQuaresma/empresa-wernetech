@@ -41,7 +41,7 @@ export const techs = [
   },
   {
     name: "Infraestrutura de Armazenamento Solar Wigs",
-    slug: "solarWigs",
+    slug: "solarWinds",
     logo: "/solucoes/solarWigs.webp",
     banner: "/solucoes/solarWigs1.png",
     href: "/solucoes/solarwigs",
